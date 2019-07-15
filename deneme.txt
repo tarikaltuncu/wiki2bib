@@ -1,0 +1,1 @@
+L. Rosasco, T. Poggio, Machine Learning: a Regularization Approach, MIT-9.520 Lectures Notes, Manuscript, Dec. 2015. Chapter 7 - Online Learning
